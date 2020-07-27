@@ -5,7 +5,7 @@
   "dependencies": {
     "eway-rapid": "^1.2.1",
     "money-math": "^2.5.1",
-    "uuid": "^3.3.2"
+    "uuid": "^8.3.0"
   },
   "engines": {
     "node": ">= 8.0.0"
